@@ -1,0 +1,2 @@
+'Green44Asymp.priceTheorem1' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Green44Asymp.not_universalBound' depends on axioms: [propext, Classical.choice, Quot.sound]
